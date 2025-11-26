@@ -1,3 +1,4 @@
+
 # Aim:
 To study the operation and performance of a semi-automatic stencil printer used in SMT assembly and to evaluate its effectiveness in achieving accurate and consistent solder paste deposition.
 
@@ -9,31 +10,34 @@ To study the operation and performance of a semi-automatic stencil printer used 
 
 # Procedure:
 
-Step 1: Fix the Stencil tray to the Machine by adjusting the knob either for both loosening/Tightening to fix the stencil accordingly.<br>
-Step 2 : Switch ON the Stencil Printer Machine.<br>
-Step 3: In display, Click on Automatic Printer.<br>
+-Step 1: Fix the Stencil tray to the Machine by adjusting the knob either for both loosening/Tightening to fix the stencil accordingly.<br>
+
+-Step 2 : Switch ON the Stencil Printer Machine.<br>
+
+-Step 3: In display, Click on Automatic Printer.<br>
         
-Step 4 : Adjust the 4 end corner clamp by using Allen key in the working bed and fix the PCB plain board over the clamp.<br>
+-Step 4 : Adjust the 4 end corner clamp by using Allen key in the working bed and fix the PCB plain board over the clamp.<br>
                
-Step 5: Click on both start button simultaneously and make sure that Stencil Tray should be placed over the work-bed.<br>
+-Step 5: Click on both start button simultaneously and make sure that Stencil Tray should be placed over the work-bed.<br>
                  
-Step 6 : After placing the Plain PCB board on the stencil tray ,there will be mismatch to PCB pad and stencil board so,to adjust the frame use the nobs to make a correct alignment of PCB frame,the correct placement of board is shown in Fig 6.<br>
+-Step 6 : After placing the Plain PCB board on the stencil tray ,there will be mismatch to PCB pad and stencil board so,to adjust the frame use the nobs to make a correct alignment of PCB frame,the correct placement of board is shown in Fig 6.<br>
 
-Step 7:  To adjust the right knife > Click on Crawl > R Knif <br>
+-Step 7:  To adjust the right knife > Click on Crawl > R Knif <br>
    
-Step 8 : Right Knife should touch the stencil board and adjust the knife use this knob for further correct adjustments of position.<br>
+-Step 8 : Right Knife should touch the stencil board and adjust the knife use this knob for further correct adjustments of position.<br>
   
-Step 9 : After Fixing the right knife at the surface of stencil ,if there is any mismatch placement error then adjust the knife use this black colour knob.<br>
+-Step 9 : After Fixing the right knife at the surface of stencil ,if there is any mismatch placement error then adjust the knife use this black colour knob.<br>
 
-Step 10: For Left knife adjustment do follow the same (step 9) as mentioned above.<br>
+-Step 10: For Left knife adjustment do follow the same (step 9) as mentioned above.<br>
 
-Step 11 : To adjust the stencil area space to correct position we can use this both sensor(yellow colour) to the move left knife and right knife to make the frame in exact alignment ,once its reached its position where sensor will blink and it will cut off automatically and it will not move further.(Fig 12) <br>
+-Step 11 : To adjust the stencil area space to correct position we can use this both sensor(yellow colour) to the move left knife and right knife to make the frame in exact alignment ,once its reached its position where sensor will blink and it will cut off automatically and it will not move further.(Fig 12) <br>
     
-Step 12: To apply the soldering paste in the stencil area space (Note: paste should be applied between the center of both right knife and left knife).<br>
+-Step 12: To apply the soldering paste in the stencil area space (Note: paste should be applied between the center of both right knife and left knife).<br>
      
-Step 13: Click on  Crawl > L Knif  > R print then the applied paste will deposit on the plain PCB pad by the direction of left to right \, same above procedure should be done for the right to left process for next board paste application.<br>
+-Step 13: Click on  Crawl > L Knif  > R print then the applied paste will deposit on the plain PCB pad by the direction of left to right \, same above procedure should be done for the right to left process for next board paste application.<br>
                               
-Step 14 : Once the soldering Paste is applied on both side, the working of Stencil Printer process is completed.<br>
+-Step 14 : Once the soldering Paste is applied on both side, the working of Stencil Printer process is completed.<br>
+
 # Theory
 ## Introduction
 
@@ -56,11 +60,13 @@ The major function of a semi-automatic PCB stencil printer is to ensure precise,
 # Output:
 
 ## Bare Board:
+![WhatsApp Image 2025-11-24 at 21 34 15_04f7c5e6](https://github.com/user-attachments/assets/19dd3aca-53f3-45bd-aac6-e7418d445e53)
 
 
 ## Bare board with soldering Paste:
+![WhatsApp Image 2025-11-24 at 21 36 48_c909761d](https://github.com/user-attachments/assets/1fb22d58-6ebb-42cc-94fa-55db5cb9ae49)
 
 
 
 # Result:
-
+The semi-automatic stencil printer was successfully operated and its performance was evaluated under standard SMT assembly conditions. The machine produced accurate and consistent solder paste deposition across all test pads. Variations in paste height and alignment were minimal, indicating precise stencil-to-PCB registration. The semi-automatic control features improved repeatability compared to manual printing, resulting in uniform paste volume, reduced printing defects, and enhanced process reliability. Overall, the experiment confirms that the semi-automatic stencil printer is effective for achieving stable and high-quality solder paste deposition in SMT manufacturing.
